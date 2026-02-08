@@ -1,0 +1,8 @@
+# Java compiled output
+*.class
+out/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
